@@ -1,5 +1,7 @@
 import subprocess
 
+print('starting ollama')
+
 # start ollama server
 subprocess.run("ollama serve",shell=True)
 
