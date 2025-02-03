@@ -1,5 +1,5 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3.11.9
+FROM python:3.11.9 as build
 
 EXPOSE 8000
 
