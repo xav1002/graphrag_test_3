@@ -1,0 +1,689 @@
+Isolation and characterization of 
+salt-stress-tolerant rhizosphere soil 
+bacteria and their effects on plant 
+growth-promoting properties
+Naveena Radhakrishnan & Chitra Krishnasamy
+PGPR has a higher potential impact on agricultural crops. It enhances plant growth and development 
+in a variety of adverse environmental conditions, including biotic and abiotic stresses. The PGPR is 
+commercially vital since it is more efficient, safe for the environment, and beneficial to the economy . 
+Nowadays, salt stress has an impact on the agricultural ecosystem. Salt-tolerant PGPR can directly 
+stimulate plant growth and development by producing a variety of metabolites and phytohormones. 
+The current study looked at the isolation of salt-tolerant bacterial species and their ability to stimulate 
+plant development. Four bacterial species were chosen for their better salt stress tolerance (0–5%). 
+They were identified by 16S rRNA sequencing: Solibacillus silvestris  BR1, Peribacillus frigoritolerans  
+BR2, Paenibacillus taichungensis  CR1, and Solibacillus isronensis  CR2. These strains were positive 
+production of indole acetic acid with varying incubation periods (19.66 ± 1.528 to 646.111 ± 8.058 µg/
+mL), salt stress (ranging from 29.556 ± 1.171 to 147.8111 ± 2.086 µg/mL), phosphate solubilization 
+(0.145 ± 0.011 to 0.921 ± 0.007 µg/mL), ammonium production (0.299 ± 0.047 to 1.202 ± 0.142 µg/mL), 
+HCN production (0.308 ± 0.051 to 4.269 ± 0.069 µg/mL), and siderophore production (0.190 ± 0.064 
+to 1.543 ± 0.108 µg/mL) for control strains were used without salt stress. The production level was 
+expressed using a standard curve containing various standards.
+Keywords Nilgiri district, Rhizosphere soil, Rhizobacteria, Salt stress tolerance bacteria, Plant growth 
+hormone, Plant growth activities
+One of the most serious problems in agricultural soils is environmental stress, which includes both biotic 
+and abiotic variables. Salinity stresses have negative consequences for the growth and production of many 
+agricultural crops1. Soil salinization is a critical issue that significantly affects the structure, processes, and 
+functions of global ecosystems2. In general, soil salinization is classified into two categories based on natural and 
+human-induced actions: primary salinization and secondary salinization. Soil primary salinization is primarily 
+influenced by the local climate, parent material, soil parameters, and groundwater. Insufficient rainfall, causing 
+higher evapotranspiration and rising groundwater levels, can also lead to increased soil salinity3. Secondary or 
+human-induced salinization occurs when humans use soil inappropriately. Saline irrigation, paired with poor 
+drainage, may readily cause salt accumulation on the soil surface. In future climate change scenarios, seawater 
+intrusion in coastal areas are expected to increases due to rising temperatures and fast development4. Soil 
+salinization is one of the most adverse factors affecting plant development and causing land degradation and, 
+as a result, diminishing potential net primary productivity and increasing desertification5. Increased soil salt 
+content has a negative impact on both physical and chemical qualities, as well as microbiological processes. 
+Electrical conductivity (EC) measures saline soil, which accumulates Na+, Mg2+, Ca2+, Cl−, HCO3−, SO42−, 
+and vitamin B ions and negatively impacts plant growth6.  The excessive accumulation of these ions induces 
+osmotic stress and toxicity by increasing Na+ assimilation and reducing the Na+/K+ ratio7. These issues can 
+be attributed to lower osmotic potential within plant roots, which affects almost all aspects of plant growth, 
+including germination, vegetative growth, and reproduction. Salinity alters various morphological, biochemical, 
+and molecular characteristics. Toxic ions frequently cause reactive oxygen species (ROS) accumulation in plant 
+tissues. The produced ROS caused protein denaturation, DNA damage, lipid peroxidation, and carbohydrate 
+oxidation, which impaired enzyme performance and pigment degradation in plants8.
+The highest concentrations of salt (Na+ and Cl-ions) cause a variety of agricultural problems, including 
+porosity, aeration, and water conductivity9. In plants, they restrict plant metabolism and, to some extent, 
+Department of Botany, Bharathiar University, Coimbatore, Tamil Nadu 641 046, India. email: Chitra@buc.edu.in
+OPEN
+Scientific Reports  |        (2024) 14:24909 1 | https://doi.org/10.1038/s41598-024-75022-y
+www.nature.com/scientificreportsdisrupt photosynthesis by creating reactive oxygen species (ROS), which can cause DNA damage, protein 
+breakdown, and membrane injury. Salinity stress will also harm the physicochemical aspects of soil respiration 
+as well as enzymatic and microbiological activity. Salt stress has been identified as the most harmful condition 
+for agricultural soil10. Salinity has the greatest impact on the environment in terms of ecological change and 
+soil variance in the future. This presents a challenge to agricultural crop productivity. Eco-friendly and non-
+hazardous alternative technology is required to overcome negative impacts of salt stress on crops. Furthermore, 
+plant growth-promoting microbes can be used to implement novel tactics. Soil contains a broad range of 
+microbiomes. Rhizospheric soil microorganisms are made up of various types of clustered bacteria. Their 
+symbiotic interaction with plants helps to minimize salinity stress11.
+Applications of PGPR can be an effective elicitor to stimulate the inclusion of abiotic and biotic systematic 
+tolerance in plants12. Rhizobacteria that promote plant growth are usually found in the plant’s root zone. This 
+establishes a special symbiotic connection with plants. It will employ a direct mechanism to induce plant growth 
+and development. The mechanisms involved are nutrient acquisition, HCN production, ammonium production, 
+siderophore sequestration, and nitrogen fixation, synthesis of exo-polysaccharides and phytohormones, 
+potassium and phosphate solubilization under salinity stress13, and upregulation of plant antioxidant defense 
+enzymes to protect the plant from oxidative damage14. PGPR improves crop productivity and the production 
+of plant growth regulators like auxin, gibberellins, cytokinin, ethylene, HCN, and antibiotics15. Many methods 
+for PGPR-mediated salt stress resistance in plants have been documented in the literature. They specifically 
+decrease the negative effects of high ethylene levels on plants, such as chlorosis, abscission, and senescence16. 
+Furthermore, under salinity stress, NaCl causes rapid K+ loss from the plant’s cellular cytosol, whereas PGPR 
+retains more K+ in order to maintain a higher K+-Na+ ratio and avoid osmotic imbalance17. Furthermore, PGPR 
+helps to reduce reactive oxygen species (ROS) produced by NaCl in plant cells by raising the amounts of ROS-
+scavenging enzymes18.
+In high-salinity conditions, various PGPR can regulate and stimulate plant growth. According to various 
+investigations, such bacteria belong to the following families: Azospirillum , Alcaligenes , Arthrobacter , 
+Acinetobacter , Bacillus , Burkholderia , Bradyrhizobium , Enterobacter , Erwinia , Flavobacterium , Pseudomonas , 
+Rhizobium , and Serratia19. Tryptophan is a key precursor that contributes significantly to bacteria’s biosynthetic 
+pathway for the creation of IAA. During tryptophan metabolism, carbohydrates and sugar molecules are 
+moved around. It will control physiological processes including cell proliferation, tissue differentiation, and 
+tactic responses20. IAA is produced by both bacteria and plants through Trp-dependent and Trp-independent 
+mechanisms21. However, the majority of earlier investigations on IAA production focused on Trp-dependent 
+pathways, with few studies examining Trp-independent processes. The intermediary stages and genes involved 
+in Trp-independent pathways remain unknown. Bacteria’s key IAA biosynthesis routes have been identified as 
+IPA, IAM, and indole-3-acetonitrile (IAN)22. A higher percentage of phosphate-solubilizing bacteria have been 
+isolated from several environmental sources, including rhizosphere soil, metal-contaminated soil, phosphate 
+mines, composts, and macro fauna23. Phosphate-solubilizing bacteria have been used as a novel biotechnology 
+method. It has the ability to solubilize rock phosphate and serve as a fertilizer24. The bacteria produce organic 
+acid, which chelates the cations. Phosphate is bound through hydroxyl and carboxyl groups before being 
+released as soluble phosphate25. Bacterial solubilization lowers the pH of the media through either H+ extrusion 
+or the secretion of organic acids such as gluconic, citric, oxalic, succinic, lactic, formic, and acetic acids. These 
+microorganisms have increased the solubility of rock phosphate26. Our research findings include rhizosphere 
+soil bacteria isolation from the agricultural soil of beetroot and carrot vegetable cultivation areas in Nilgiri 
+district, Tamil Nadu, India. The ability of the isolated bacterial species to tolerate salt stress was studied. In the 
+synthesis of IAA, the phosphate solubilizing capability, ammonium, HCN, and siderophore must be examined.
+Materials and methods
+Isolation of rhizosphere soil bacteria
+The soil samples were collected from the beetroot and carrot rhizosphere soil in the Nilgiri district of Kilkothagiri, 
+Tamil Nadu, India, at latitude 11.384° N and longitude 76.74305° E. The pH of the sampled soil was 7. The bacteria 
+were isolated using the following procedure: 1 g of soil sample was obtained and mixed with approximately 
+10 mL of sterile distilled water (1:10 ratio). This diluted sample was taken up to 1 mL and serially diluted (10–1 to 
+10–7). The pour plate method was used to pour approximately 1 mL of each diluted sample onto the nutrient agar 
+medium (Himedia, India). Plates were incubated for 24 h at 37 °C. A single colony developed in dilution and was 
+selected for a streak on sterilized nutrient agar medium. Four bacterial colonies were successfully isolated and 
+preserved. They were tested for salt stress tolerance and plant growth-promoting properties.
+Morphological characteristics of Bacterial isolates
+After the cultures were screened out on the basis of colony morphology, distinct microbial colonies were counted 
+and subsequently pure-cultured. The colony color, shape, and margin were noted. After that, the pure colonies 
+were maintained solidified agar plates at 4 °C and used for further characterization studies. Next, the biochemical 
+characterization was analyzed.
+Biochemical characteristics of Bacterial isolates
+Indole test
+Take a sterile test tube and add 4 mL of tryptophan broth. Inoculate the tube aseptically by removing the growth 
+from an 18- to 24-h culture. Incubate the tube at 37 °C for 24–28 h. Add 0.5 mL of Kovac’s reagent to the broth 
+culture. Check for the presence or absence of a ring27.
+Scientific Reports  |        (2024) 14:24909 2 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/Sugar utilization test
+The medium includes proteose peptone (10.00 g). HM Peptone B (beef extract): 1 g; sodium chloride: 5.00 g. 
+Mix 0.018 g of Phenol Red and 10 g of glucose in 1 L of clean water. Use a sterile inoculating loop to collect a 
+well-isolated colony from a fresh culture of sample bacteria (18 to 24 h old) and add it to the broth. Incubate 
+tubes at 35 ± 2 °C for 18–24 h. Check for color changes in the soup and trapped air bubbles in Durham’s tube. If 
+no color change or air bubbles appear, incubate the tubes for an additional 24 h before checking for color change 
+and air bubbles28.
+Methyl red test
+Allow the medium to reach room temperature before inoculating. Use organisms from an 18–24-hour pure 
+culture to slightly inoculate the medium. Incubate aerobically at 37 °C for 24 h. After 24 h of incubation, transfer 
+1 ml of broth to a clean test tube. Add 2–3 drops of methyl red indicator to the aliquot. Check for red quickly29.
+Voges-Proskauer test
+Allow the medium to reach room temperature before inoculating. Use organisms from an 18–24-hour pure 
+culture to mildly inoculate the medium. Incubate aerobically at 37 °C for 24 h. After 24 h of incubation, transfer 
+2 mL of broth to a clean test tube. Re-incubate the remaining broth for another 24 h. Add 6 drops of 5% alpha-
+naphthol and mix thoroughly to aerate. Add 2 drops of 40% potassium hydroxide and mix thoroughly to aerate. 
+Within 30 min, observe for a pinkish-red tint on the surface. Shake the tube aggressively for the entire 30-min 
+time30.
+Citrate utilization test
+Streak the slant back and forth with a mild inoculum obtained from the center of a well-isolated colony. The 
+colony was inoculated onto simmons citrate agar. Incubate aerobically at 35 to 37 °C for 4–7 days. Observe the 
+color change from green to blue31.
+Catalase test
+Using a loop or sterilized wooden stick, transfer a little bit of colony development to the surface of a clean, dry 
+glass slide. Add a drop of 3% H2O2 to the glass slide. Observe the evolution of oxygen bubbles32.
+Ammonia production test
+Freshly developed cultures were injected into 10 mL of peptone water in each tube and incubated for 48–72 h at 
+28 ± 2 °C. Nessler’s reagent (0.5 mL) was added to each tube. The development of a brown-to-yellow tint was a 
+positive indicator of ammonia production33.
+Potassium hydroxide solubilization test
+Apply one drop of 3% KOH to a microscope slide. Use the loop to transfer a generous number of bacteria 
+(cultivated for 24–48 h) to a drop of KOH. Stir carefully. Gram-negative bacteria solutions are viscous and form 
+a mucoid string within 30 s, whereas gram-positive bacteria solutions are not viscous.
+Characterization of bacterial isolates
+Sequencing and phylogenetic analysis
+Bacterial genomic DNA was recovered via overnight culture using the CTAB (Cetyl trimethyl ammonium 
+bromide) technique34. The 16S rRNA gene was amplified using a forward primer (5'  G A G T T T G A T C G T G G 
+C T C A G 3’) and a reverse primer (5'  A G G G C T  A C C T T G T T A G A C T T 3’). PCR analysis using a reaction mixer 
+volume of 20 µl. Emerald Amp GT PCR master mix contains MQ water, 10X Taq buffer, 15 mM MgCl2, Taq 
+polymerase, 4 mM DNTPs, genomic DNA, reverse and forward primers, and sterile water. PCR amplification 
+was carried out in the following manner: initial denaturation at 96 °C for 5 min, followed by 35 cycles. They 
+performed three steps: denaturation at 94 °C for 1 min, annealing at 48 °C for 1 min, extension at 72 °C for 2 min, 
+and a final extension at 72 °C for 10 min. Amplified PCR products were sequenced on a 3500 genetic analyzer 
+(Thermo Fisher, India). The ExoSAP-ITTM PCR product cleanup reagent was used to remove unincorporated 
+PCR primers and dNTPs from the amplified PCR product. The thermocyclic reaction is then followed by ethanol 
+precipitation of the PCR products. The DNA sample was then tested using a genetic analyzer. The 16S rRNA gene 
+sequences were aligned using DNA laser gene software and compared to sequences available from GenBank 
+using the BLASTN program ( www.ncbi.nlm.nih.gov/BLAST ). The phylogenetic tree constructed based on 16S 
+rRNA sequences from the bacterial isolates using evolutionary history was inferred using the neighbor-joining 
+method35. The optimal tree is shown. The percentage of replicate trees in which the associated taxa clustered 
+together in the bootstrap test (1000 replicates) is shown next to the branches36 (next to the branches). The 
+evolutionary distances were computed using the Maximum Composite Likelihood method37 and are in units 
+of the number of base substitutions per site. This analysis involved 35 nucleotide sequences. All ambiguous 
+positions were removed for each sequence pair (pairwise deletion option). There were a total of 1573 positions 
+in the final dataset. Evolutionary analyses were conducted in MEGA1138.
+National Center for Biotechnology Information (NCBI) database
+The 16S rRNA sequences of the four bacterial species were examined at NCBI (National Center for Biotechnology 
+Information) and deposited under the accession numbers BR1 ON819727.1, BR2 ON819728.1, CR1 OR478038.1, 
+and CR2 OR478039.1.
+Scientific Reports  |        (2024) 14:24909 3 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/Effects of incubation period on production of IAA
+The incubation period for bacterial strains was tested for indole-acetic acid synthesis. When IAA production 
+levels increased over time, the impacts of the incubation period were determined. The bacterial species were 
+cultured in Erlenmeyer flasks with 100 mL of nutrient broth. Inoculated with 0.1 mL of culture and supplemented 
+with 0.1% L-tryptophan. The culture was incubated for periods ranging from 1 to 10 days at 37 °C. Following 
+incubation, the culture supernatant was centrifuged and tested for IAA synthesis using the colorimetric 
+technique. The supernatant was combined with a 1:2 salkowski reagent (0.5 M FeCl3 and 70% perchloric acid). 
+Have incubated in the dark for 30 min and measured the absorbance of OD at 530 nm39.
+Determination of salt stress tolerance Bacteria for Indole-3-acetic acid production
+The four bacterial strains have been examined for salt tolerance efficiency at various concentration levels. Each 
+isolate was inoculated with 10 mL of nutritional broth containing 0, 1%, 2%, 3%, 4%, and 5% NaCl and 0.1 L 
+tryptophan. The tubes were cultured for one week on an orbital shaker at 250 rpm and 37 °C. After that, the 
+culture was centrifuged at 6000  rpm for 15  min. The turbidity of the assigned bacterial cells was evaluated 
+using a spectrophotometer (Labtronics, India) at 600 nm. IAA production was measured using a calorimetric 
+technique with a 1:2 salkowski reagent (0.5 M FeCl3 and 70% perchloric acid). The concentration was calculated 
+using a standard curve of IAA absorbance at 530 nm39. They were successful in determining the bacteria with 
+the bacteria with the highest salt tolerance and their IAA acid production.
+Quantification of Bacterial phosphate solubilization
+The phosphate solubility of bacteria was quantified using Pikovskaya’s broth and tricalcium phosphate as a 
+substrate40. The PVK broth (10 mL) containing 0, 1%, 2%, 3%, 4%, and 5% NaCl was added to the culture tube 
+and then screened for bacteria. Each sample was inoculated with 100 µl in triplicate. The culture was cultured 
+for 7 days at 37 °C on an orbital shaker at 250 rpm. After incubation, the culture was centrifuged at 6000 rpm for 
+15 min, and the supernatant was collected. 0.5 mL of culture supernatant was combined with 10% trichloroacetic 
+acid in an equal proportion. Add 3 mL of the reagent combination to the culture supernatant (1:1:1:2 ratios 
+of 3 M H2SO4, 2.5% (w/v) ammonium molybdate, 10% (w/v) ascorbic acid, and distilled water). The culture 
+was then allowed to incubate at room temperature for 15 min. The color-changing blue was used to assess the 
+amount of soluble phosphorus in the sample. The absorbance at 820 nm was measured against the KH2PO4 
+standard curve (Himedia, India).
+Ammonia (NH3) production test
+Ammonium production was analyzed. The bacterial isolates were inoculated in peptone water containing 10.0 g 
+peptone, 5.0 g Nacl, 1,000 ml distilled water, and 7.0 pH, with NaCl stress concentrations of 0, 1%, 2%, 3%, 4%, 
+and 5%, respectively. Incubate 100 μl of culture in 10 mL of peptone water at 28 ± 2 °C for 48–72 h on an orbital 
+shaker at 350 rpm. Following incubation, the culture was centrifuged at 10,000 rpm for 15 min. To extract the 
+supernatant, add 0.5  mL of Nessler’s reagent. The change from brown to yellow was measured using OD at 
+450 nm. Ammonium sulfate was employed as a standard41.
+Hydrogen cyanide (HCN) production
+HCN production was estimated. The bacterial isolates were inoculated in nutritional broth at concentrations of 
+0, 1%, 2%, 3%, 4%, and 5% NaCl stress and supplemented with glycine (4.4 g/L). The culture was then inoculated, 
+and a uniform-sized piece of filter paper was soaked in 2% sodium carbonate in a 0.5% picric acid solution 
+before being suspended within the conical flasks. The reddish chemical originated in filter paper. The color 
+was eluted by placing the filter paper in a test tube containing 10 mL of distilled water, and the absorbance was 
+measured at 625 nm. Sodium cyanide was employed as the standard42.
+Estimation of siderophore production
+Siderophore production was quantified. The bacterial isolates were inoculated into nutritional broth with 
+different concentrations of NaCl stress (0, 1%, 2%, 3%, 4%, and 5%). Fill 250-ml Erlenmeyer flasks with 100 ml 
+of broth and sterilize thoroughly. After adding 1 mL of inoculum to the culture broth, it was incubated at 37 
+ºC for 7 days in an orbital shaker at 300 rpm. Afterward, the bacterial inoculum was centrifuged at 10,000 rpm 
+for 20  min. The culture supernatant was collected, and the pH was adjusted to 2.0 using diluted HCL. The 
+supernatant was removed twice, and an equal volume of ethyl acetate (V/V) was added to the extract. To estimate 
+the siderophore, one milliliter of 0.1 M ferric chloride and 1 ml of 0.1 N HCl were mixed with 100 ml of distilled 
+water, followed by 1 ml of 0.1 M potassium ferricyanide. Add 5 mL of extract assay solution to 5 mL of Hathway 
+reagent and measure OD at 560 nm. The standard for salicylate-type siderophores was sodium salicylate43.
+Statistical analysis
+The statistical analysis was carried out using Microsoft Office Excel (2007). Mean values for each treatment were 
+determined, and the treatment means were compared using analysis of variance. The data in this study were 
+statistically evaluated using one-way ANOV A and SPSS version 16. Mean values were expressed as mean ± SD. 
+Values were compared using Duncan’s multiple range test with a significance level of p < 0.05.
+Results and discussion
+Isolation and molecular characterization of Bacterial Isolates
+The PGPR has positive properties that allow it to reduce the harmful effects of excessive salt concentrations. 
+PGPR can increase plant development in a salt environment in two ways: (i) activating or regulating plant 
+response systems during salt exposure, and (ii) manufacturing anti-stress molecules44. To improve the growth 
+Scientific Reports  |        (2024) 14:24909 4 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/and resistance of plants exposed to salinity, the processes include (i) improving nutrient uptake (e.g., N2 fixation, 
+release of bound P and K+ from the soil, chelating iron) and maintaining the water balance; (ii) an influence 
+on ion homeostasis; (iii) inducing the selective absorption of K+ and exclusion of Na+ to maintain a high K+/
+Na+ ratio; (iv) the formation of bio-film to reduce Na+ toxicity; (v) changes in root architecture; (vi) modulating 
+the antioxidant system; (vii) modulating osmotic substances; (viii) modulating plant hormonal levels; and (ix) 
+modulating the expression of salt-responsive genes45. Recently, it has been demonstrated that PGPR inoculation 
+causes DNA methylation modification, which regulates the expression of genes useful for plant growth 
+promotion, and that these DNA methylation changes in the DNA of root tissues can persist even after the PGPR 
+is removed from the root microbiome46.
+In this investigation, salt resistance and plant growth-promoting ability were studied. The bacterial species were 
+screened using nutritional broth and various amounts of (0–5% NaCl stress) (Fig.  1). Furthermore, we observed 
+only four bacterial species with great salt stress tolerance and higher potential plant development capabilities. In 
+this investigation, these bacterial species only further classified morphologically and biochemically (Tables 1 and 
+2). Following this, the bacterial strains were genetically identified. The bacterial genomic DNA was extracted, and 
+its purity was determined using Agarose gel electrophoresis and a comparison to the 1500 kbp ladder (Fig.  2). 
+Following that, the DNA was amplified using a polymerase chain reaction. Then they were genetically identified 
+using 16S rRNA sequencing. According to their sequence identification, BR1 is the Solibacillus silvestris ; BR2 
+is Peribacillus frigoritolerans; Paenibacillus taichungensis  CR1; and Solibacillus isronensis  CR2. The bacterial 
+isolates’ sequences were placed in the gene bank of the nucleotide sequence database at the National Center for 
+Biotechnology Information (NCBI) under strains BR1 ON819727.1, BR2 ON819728.1, CR1 OR478038.1, and 
+CR2 OR478039.1.
+Bacillus silvestris  has been identified as a new Bacillus  species47. After that, it was classified as Solibacillus 
+silvestris48. Only a few studies on this bacterial characterization were available. The whole genome and 
+characterization of AHL-degrading S. silvestris  were isolated from potato leaf surfaces. They are related to our 
+sequence studies49. The study reclassified Brevibacterium frigoritolerans  based on phylogenetic and molecular 
+synapomorphies. The examination of DNA-DNA hybridization, nucleotide identity, and the difference in 
+G + C content all support the phylogenetic inference that Brevibacterium frigoritolerans  and the environmental 
+isolate EB93 are the same. Based on data from numerous lines of study, it was reclassified as Peribacillus 
+frigoritolerans50. According to our findings, Peribacillus frigoritolerans  BR2 was isolated from beetroot rhizosphere 
+soil. The type strain is V10537T new species in the Paenibacillus  genus, named Paenibacillus taichungensis  sp. 
+nov. due to its distinct characteristics from previous species.
+Paenibacillus taichungensis , discovered in Taiwanese soil, is a distinct gram-variable, rod-shaped, motile, 
+endospore-forming bacterial strain. Strain V10537T is proposed as a new species of the genus Paenibacillus  nov., 
+Paenibacillus taichungensis  sp. based on phylogenetic, phenotypic, genotypic, and chemotaxonomic evidence. 
+Phenotypic characteristics that are closely connected to novel Paenibacillus  species51. Similarly, the Paenibacillus 
+taichungensis  CR1 strain was identified from carrot rhizosphere soil in the Nilgiri area of Tamil Nadu, India. 
+Solibacillus isronensis  and Solibacillus silvestris  share a phylogenetic lineage that overlaps the phenotypic features 
+of the Solibacillus  genus49 (Fig.  3).
+Effect of various incubation periods on IAA producing Bacterial Isolates
+The incubation period was the most beneficial characteristic for producing Indole acetic acid. The bacterial 
+isolates were cultured in a nutritional medium containing L-tryptophan. The bacterial strains were incubated for 
+various incubation periods, such as 1, 3, 7, and 10 days, to produce indole acetic acid. Our findings demonstrated 
+that Solibacillus silvestris  BR1, Peribacillus frigoritolerans  BR2, Paenibacillus taichungensis  CR1, and Solibacillus 
+isronensis  CR2 have the potential to produce the higher amount of IAA after 7 and 10  days of incubation 
+(Fig.  4a). Solibacillus isronensis  CR2 produced the highest amount of Indole acetic acid (646.111 ± 8.058a µg/
+mL) after 10 days of incubation, while the BR1 strain produced (268.33 ± 0.33b µg/mL) after 7 days. At one 
+day of incubation, the BR2 strain produced less IAA (19.66 ± 1.528n µg/mL). After one day of incubation, the 
+BR1 produced (35.66 ± 1.764 m µg/mL) (Table 3). The bacteria Bacillus subtilis , like our findings, produced a 
+significant amount of production during the 96-h incubation period52. IAA synthesis in S. silvestris  decreased 
+with longer incubation periods (46.556 ± 4.718ll µg/mL). P . frigoritolerans  (115.66 ± 0.577j µg/mL) levels were 
+reduced after 10 days of incubation. During the 3-day incubation period, IAA production increased progressively 
+in CR2 (188.333 ± 2.186e µg/mL), followed by CR1 (181.222 ± 1.644f. µg/mL), BR1 (68.22 ± 1.530k µg/mL), and 
+BR2 (46.11 ± 3.15l µg/mL) (Fig.  4a). IAA synthesis levels differ among microbes54. Bacterial species, strains, 
+culture conditions, substrate availability, and growth stage may all have an impact on indole acetic acid synthesis.
+Screening of salt tolerant Bacteria  for the production of IAA
+The rhizo-microbiome produces phytohormones in low concentrations, which act as chemical messengers to 
+regulate the metabolic pathways of growth simulators in plants and alter root shape when stressed. Several 
+published study findings support the concept that phytohormones synthesis is one of the primary plant stress 
+relief methods used by microorganisms. Auxin and IAA stimulate cellular division, growth, and differentiation 
+in plant roots, as well as the formation of lateral roots, both of which help plants to absorb nutrients and retain 
+water54,55. Salt stress has influenced plants’ physiological and biochemical systems and pathways, causing 
+sufficient food absorption, altering growth-inducing regulators, and inhibiting protein synthesis56. Bacterial 
+isolates were grown in a nutritional broth medium containing L-tryptophan at varying concentrations (0, 1%, 
+2%, 3%, 4%, and 5% NaCl). The culture was then incubated for 7  days at ambient temperature. The ability 
+to produce IAA was then determined using the IAA standard curve. S. isronensis  CR2 produced the largest 
+quantity of IAA (147.8111 ± 2.086d µg/mL) in 1% and 2% of NaCl stress (120.333 ± 0.882e µg/mL), followed 
+by Paenibacillus taichungensis  CR1, which showed (106.889 ± 3.339f. µg/mL) at 1% and (86 ± 3.333 g  µg/
+Scientific Reports  |        (2024) 14:24909 5 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/mL) in 2% of NaCl stress (Table 4). At 1% Nacl stress, Solibacillus silvestris  BR1 produced an average of 
+(76.889 ± 0.192 h  µg/mL), and Peribacillus frigoritolerans  BR2 produced (65 ± 0.577i µg/mL) of IAA. At 5% 
+NaCl stress, Peribacillus frigoritolerans  BR2 produced (29.556 ± 1.171n µg/mL), while Solibacillus silvestris  BR1 
+produced (38.111 ± 2.411 m µg/mL), the least amount of IAA shown in Table 4. Paenibacillus taichungensis  CR1 
+(48.111 ± 1.575 l µg/mL) and Solibacillus isronensis  CR2 (52.889 ± 1.171j, k µg/mL) produced the least amount 
+of indole acetic under 5% NaCl stress. BR2 P . frigoritolerans  produced significantly less IAA than other strains 
+(Fig.  4b). Similar to our studies, Hallobacillus  strains produced the highest quantity of IAA compared to SK-Pbt 
+01 (25.07 µg/mL), SK-Pbt 03 (24.47 µg/mL), and SK-Pbt 01 (19.58 µg/mL) in salinity conditions57. Salinity stress 
+Fig. 1 . Screening of salt-stress-resistant plant growth-promoting rhizobacterial strains. 
+Scientific Reports  |        (2024) 14:24909 6 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/is a big issue for plants since it inhibits their growth and development. High levels of salt raise ethylene levels, 
+cause senescence, chlorosis, and abscission processes, and result in plant death58. Halo-tolerant microorganisms 
+have a high potential for agricultural crop productivity in arid and semi-arid settings59.
+Determination of Phosphate solubilization of Rhizobacteria
+Phosphorus stress causes the plant to be unable to absorb nutrients. Phosphate-solubilizing bacteria may help 
+plants cope with stress60. In our study, we examined the phosphate solubilization capability of IAA salt-stress-
+tolerant bacteria on Pikovskayas agar medium using a tricalcium phosphate source. The primary mechanism 
+of phosphate solubilization is the formation of organic acids. Organic acids generated by microorganisms 
+include gluconic, formic, 2-ketogluconic, citric, oxalic, lactic, isovaleric, succinic, glucolic, and acetic acids58. 
+Bacillus  species is the most abundant bacteria in the rhizosphere, have evolved various methods to promote 
+plant growth and boost nutrient availability. Phosphate solubilization was quantified in the liquid broth of a 
+Pikovskay’s medium culture with various doses of sodium chloride (0, 1%, 2%, 3%, 4%, and 5%) after 7 days. At 
+5% NaCl stress, the Solibacillus isronensis  CR2 strain (0.921 ± 0.007a µg/mL) and Paenibacillus taichungensis  CR1 
+strain (0.851 ± 0.012a, b µg/mL) exhibited the highest phosphate solubilization levels. Phosphate solubilization 
+was strong at 5% NaCl stress (Table 5). Because the bacterial isolates are exposed to hyper-osmotic-adaptation 
+pathways, they synthesize suitable solutes or accumulate potassium in order to overcome Na+ ion toxicity. 
+Many non-halophilic bacteria have also been shown to accumulate potassium in response to sodium stress61. 
+High NaCl concentrations often disrupt membrane transport systems and denature proteins; however, some 
+microbes have atypical plasma membranes and many peculiar enzymes that allow them to live for prolonged 
+periods of time under such harsh stress circumstances. It has been discovered that osmo-tolerance responses, 
+de novo synthesis of osmolytes, and excess production of salt stress proteins effectively eliminate the negative 
+effects of excessive osmolarity62. At 1% NaCl stress, Solibacillus silvestris  BR1 and Peribacillus frigoritolerans  BR2 
+had higher average phosphate solubilization (0.789 ± 0.039b,c µg/mL and 0.588 ± 0.035f. µg/mL, respectively) 
+(Fig.  4c). Similarly to our findings, the three different Bacillus  bacteria have rock phosphate solubilization. 
+Bacillus cereus  S0B4 has been shown to have a high solubilization capacity of 338.5 mg/L. Following other species, 
+Bacillus amyloliquefaciens  (287.6  mg/L) and Solibacillus isronensis  S0B8 (271.7  mg/L) have been reported to 
+have the highest amount42. The CR2 strain had the highest phosphate solubilization, while the BR2 strain had 
+a smaller quantity (0.145 ± 0.011° µg/mL) at 5% NaCl stress (Table 5). Phosphorus plays a crucial role in plant 
+photosynthesis, respiration, energy storage and transfer, cell division and growth. Soil microorganisms have the 
+ability to transform inorganic phosphate into an insoluble form due to their solubility capacity. This bacterium 
+is highly beneficial for plant nutrient uptake from phosphorus63,64. It can serve as a future option for organic bio 
+fertilizers.
+Ammonium production determination of Rhizobacteria
+Ammonium is a significant nutrient for plants and aids in atmospheric nitrogen fixation. Salt stress is a serious 
+issue for ammonium formation in soil. It affects nitrification and ammonification in soil because chloride (Cl-) 
+competes with nitrate (NO3-), causing ion toxicities and ionic inequalities that can specifically limit N uptake, S. No Biochemical testsSolibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Indole test − − − −
+2 Sugar utilization test + − + −
+3 Methyl red test − + + +
+4 Voges prokauer test − − + +
+5 Citrate utilization test − − + −
+6 Catalase test + + − +
+7 Ammonium production test + + + +
+8 Potassium hydroxide solubility + + + +
+Table 2 . Biochemical characterization of Bacterial Isolates. ( +) Indicates the positive and ( −) Indicates the 
+negative. S. No Morphological characteristicsSolibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Gram stain Gram positive Gram positive Gram variable Gram positive
+2 Cell shape Rod shape Rod shape Rod shape Rod
+3 Motility Motile Non-motile Motile Motile
+4 Colony Whitish and shiny Beige Shiny and round Beige
+5 Growth Aerobic Aerobic Facultative anaerobe Mesophilic
+Table 1 . Morphological characterization of Bacterial Isolates. 
+Scientific Reports  |        (2024) 14:24909 7 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/transport, and assimilation processes65,66. The current study demonstrates ammonium generation at various 
+NaCl stress levels using the approach of19. Ammonium sulfate was used as a standard curve. At 1% NaCl stress, 
+the Solibacillus isronensis  CR2 strain produced the more production of ammonium (1.202 ± 0.142a µg/mL), 
+while the Paenibacillus taichungensis  CR1 strain produced (1.09 ± 0.071b µg/mL) (Fig.  4d). Solibacillus silvestris  
+BR1 (0.849 ± 0.003f, g µg/mL) and Peribacillus frigoritolerans  BR2 (0.814 ± 0.032f, g µg/mL) were later detected. 
+When compared with other strains, BR2 produced the least quantity of ammonium. The BR2 strain had the 
+lowest amount (0.299 ± 0.047 h µg/mL) under 5% NaCl stress (Table 6). Ammonium nitrogen fixation occurred 
+with the help of the nitrogenase enzyme, which reduced H+ to H2. Because the liberated hydrogen gas is lost to 
+the atmosphere, the ATP used to produce is wasted. If any of the strains include the enzyme hydrogenase, they 
+can recover H2 from the atmosphere and convert it back into H+ for the synthesis of ATP , which can then be used 
+for more nitrogen fixation. These strains preserve energy while also fixing nitrogen67.
+Fig. 2 . Genomic DNA isolated from the isolated salt stress resistant plant growth promoting bacterial strains 
+Lane 1 (DNA ladder), Lane 2 (BR1 strain), Lane 3 (BR2 strain), Lane 4 (CR1 strain), and Lane 5 (CR2 strain). 
+Scientific Reports  |        (2024) 14:24909 8 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/Determination of Hydrogen cyanide production of Rhizobacteria
+Hydrogen cyanide (HCN) is one of the secondary metabolites and a volatile molecule. Many rhizobacteria 
+produce them, and they have a potent effect on a wide range of species. Many bacterial genera can produce HCN, 
+including species of Alcaligenes , Aeromonas , Bacillus , Pseudomonas , and Rhizobium68. In the present study, BR1, 
+Fig. 3 . Phylogenetic tree based on 16S rRNA of a BR1, BR2, CR1 and, CR2 (Bold) closely related species. 
+Methanothermococcus thermolithotrophics  DSM 3610 was used as out-group. The percentages of replicate trees 
+(> 50%) in which the associated taxa clustered together in the booststrap test (1000 replicates). The gene bank 
+accession numbers of 16S rRNA gene sequences and scale bars are shown. 
+Scientific Reports  |        (2024) 14:24909 9 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/BR2, CR1, and CR2 were examined for HCN generation using the sodium cyanide as a standard curve. The CR1 
+strain produced the most HCN (4.269 ± 0.069a µg/mL) at 1% NaCl stress, followed by (3.013 ± 0.166c µg/mL) 
+at 2% NaCl stress (Fig.  4e). The CR2 strain produced the second-highest amount of HCN (2.756 ± 0.029d µg/
+mL) at 1% NaCl stress. The BR2 strain had the lowest quantity (0.308 ± 0.051n µg/mL) at 5% NaCl concentration 
+(Table 7). As salt stress increased, HCN production eventually decreased. In plants, HCN indirectly improved 
+Fig. 4 . Effect of salt stress on plant growth promoting properties of rhizobacterial strains BR1, BR2, CR1 and 
+CR2. 
+Scientific Reports  |        (2024) 14:24909 10 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/S. No NaCl (Con. %)Ammonium production Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Control 0.850 ± 0.002f,g0.811 ± 0.031f,g1.047 ± 0.052b,c1.239 ± 0.031a
+2 1% 0.849 ± 0.003f,g0.814 ± 0.032f,g1.099 ± 0.071b1.202 ± 0.142a
+3 2% 0.838 ± 0.007f,g0.768 ± 0.062g1.087 ± 0.095b1.037 ± 0.006b,c
+4 3% 0.825 ± 0.040f,g0.329 ± 0.015h0.939 ± 0.006d,e0.994 ± 0.074c,d
+5 4% 0.797 ± 0.031f,g0.327 ± 0.001h0.878 ± 0.028e,f0.979 ± 0.030d,e
+6 5% 0.765 ± 0.008g0.299 ± 0.047h0.865 ± 0.034e,f0.947 ± 0.140f,g
+Table 6 . Sodium chloride stress on Ammonium production of Rhizobacteria. Values represent the mean SE. 
+Means  ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis rejected. S. No NaCl (Con. %)Phosphate solubilization Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Control 0.779 ± 0.110b,c0.163 ± 0.054n,o0.301 ± 0.001k,l0.368 ± 0.001i,j,k
+2 1% 0.789 ± 0.039b,c0.588 ± 0.035f0.423 ± 0.012i,j0.390 ± 0.010i
+3 2% 0.331 ± 0.103k,l0.296 ± 0.031k,l0.465 ± 0.011g,h0.506 ± 0.004g
+4 3% 0.305 ± 0.044j,k,l0.285 ± 0.096l,m0.642 ± 0.011e,f0.717 ± 0.002c,d
+5 4% 0.224 ± 0.029m,n0.210 ± 0.002n,o0.662 ± 0.003d,e0.892 ± 0.014b
+6 5% 0.208 ± 0.015n,o0.145 ± 0.011o0.851 ± 0.012a,b0.921 ± 0.007a
+Table 5 . Effect of inorganic Phosphate solubilization of Rhizobacteria with salt stress. Values represent the 
+mean SE. Means ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis 
+rejected. S. No NaCl (Con. %)Sodium chloride stress IAA production Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Control 268.33 ± 0.33b148.55 ± 1.644d199.77 ± 3.151c646.111 ± 8.058a
+2 1% 76.889 ± 0.192h65 ± 0.577i106.889 ± 3.339f147.8111 ± 2.086d
+3 2% 57.111 ± 0.962j53 ± 1.856j,k86 ± 3.333g120.333 ± 0.882e
+4 3% 49.77 ± 1.540k,l42 ± 1.732m78.667 ± 1.764h80.889 ± 1.678h
+5 4% 39.444 ± 0.839m32.22 ± 1.171n56.111 ± 0.839j63.222 ± 0.509i
+6 5% 38.111 ± 2.411m29.556 ± 1.171n48.111 ± 1.575l52.889 ± 1.171j,k
+Table 4 . Sodium chloride stress on Indole acetic acid production of Rhizobacteria. Values represent the mean 
+SE. Means ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis rejected. S. No Incubation periodsIAA production Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 day 35.66 ± 1.764m19.66 ± 1.528n51.444 ± 1.262l150.222 ± 3.006g,h
+2 3 days 68.22 ± 1.503k46.11 ± 3.151l181.222 ± 1.644f188.333 ± 2.186e
+3 7 days 268.33 ± 0.33b148.55 ± 1.644i199.778 ± 3.151d212.556 ± 0.509c
+4 10 days 46.556 ± 4.718l115.66 ± 0.577j155.555 ± 3.006g646.111 ± 8.058a
+Table 3 . Rhizobacteria Indole acetic acid production effect on various Incubation periods. Values represent 
+the mean SE. Means ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis 
+rejected. 
+Scientific Reports  |        (2024) 14:24909 11 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/phosphorus availability through metal chelation and sequestration, boosting nutrient availability for both 
+rhizobacteria and host plants69.
+Determination of Siderophore production of Rhizobacteria
+Rhizosphere soil microorganisms have the potential to create siderophores. They are bacterial molecules that are 
+organic in nature and weigh 500 to 1500 Da. They are specialized metal-chelating Fe3+ compounds generated 
+by microorganisms under constrained conditions to boost their iron absorption ability70,71. In this work, we 
+determined the catecholate type of siderophore manufacturing ability using sodium salicylate as the reference. 
+The Solibacillus isronensis  CR2 strain (1.543 ± 0.108a µg/mL) and Paenibacillus taichungensis  CR1 (0.936 ± 0.036b 
+µg/mL) produced the most siderophores at 1% NaCl concentration (Table 8). The Peribacillus frigoritolerans  BR2 
+stain revealed the lowest amount (0.190 ± 0.064l µg/mL) when NaCl stress was increased by 5%. Our research 
+found that increasing the salt concentration level resulted in the lowest amount of siderophore formation. The 
+BR2 strain produced the least quantity, followed by CR1, BR1, and CR2 at 5% NaCl stress (Fig.  4f). Siderophores 
+are classified into three groups: hydroxamate, catecholate, and carboxylate72. However, some siderophores include 
+ligands that contain a combination of lysine, ornithine, and histamine derivatives73. Siderophore synthesis may 
+be regulated by environmental factors such as pH, metal pollution, and microbe-Fe3+ interactions74. Plant growth 
+and development involve colonizing the plant roots, eliminating iron from the surface area, and producing an 
+environment conducive to root development75. Our studies showed that rhizobacteria have the ability to create 
+plant growth-promoting compounds. In the future, beneficial microorganisms from rhizosphere soil will be 
+extracted and turned into bio fertilizers. It will promote plant growth and development as non-hazardous and 
+environmentally friendly manner.
+Conclusion
+Salinity stress is a major issue with agricultural crops. These issues are primarily attributable to environmental 
+causes and ecological changes. Eco-friendly and non-hazardous alternative technology is required to overcome 
+salt stress. From these additional viewpoints, plant growth-promoting microorganisms can be used to implement 
+novel tactics. Rhizosphere soil microorganisms serve a range of functions in plants. It transfers nutrients from 
+the earth to the plant. This microorganism is useful for regulating soil pollution, fertility, erosion, heavy metal 
+contamination, and organic and inorganic contaminants. So, it can be utilized to participate in the plant 
+growth and development process in a non-hazardous way. Our research indicated that the isolated salt-stress-
+tolerant bacteria have the ability to produce plant growth compounds. The four salt-tolerant bacterial species 
+were screened out. In this study, the bacterial strains Solibacillus silvestris  BR1, Peribacillus frigoritolerans  BR2, 
+Paenibacillus taichungensis  CR1, and Solibacillus isronensis  CR2 were identified. In comparison, S. isronensis  
+CR2 has a higher capacity for salt tolerance and produces a large number of plant growth-promoting chemicals 
+such as IAA, phosphate solubilization, ammonium synthesis, HCN, and siderophores. Our research found that 
+Solibacillus isronensis  CR2 and Paenibacillus taichungensis  CR1 are more effective and capable of producing high-S. No NaCl (Con. %)Siderophore production Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Control 0.437 ± 0.007e,f,g0.381 ± 0.005g,h0.549 ± 0.096d0.852 ± 0.071c
+2 1% 0.443 ± 0.002e,f,g0.387 ± 0.013g,h0.936 ± 0.036b1.543 ± 0.108a
+3 2% 0.432 ± 0.004e,f,g0.352 ± 0.006g,h,i0.512 ± 0.019d,e0.531 ± 0.027d
+4 3% 0.400 ± 0.076g,h0.288 ± 0.012i,j0.418 ± 0.006f,g,h0.493 ± 0.067d,e,f
+5 4% 0.389 ± 0.003g,h0.262 ± 0.003j,k0.394 ± 0.091g,h0.414 ± 0.011f,g,h
+6 5% 0.358 ± 0.002g,h,i0.190 ± 0.064l0.332 ± 0.060h,i,j0.378 ± 0.011g,h
+Table 8 . Sodium chloride stress on Siderophore production of Rhizobacteria. Values represent the mean SE. 
+Means  ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis rejected. S. No NaCl (Con. %)HCN production Con. µg/mL
+Solibacillus silvestris
+BR1 StrainPeribacillus frigoritolerans
+BR2 Strain Strain Paenibacillus taichungensis  CR1 Strain Solibacillus isronensis  CR2 Strain
+1 Control 1.526 ± 0.011h1.577 ± 0.051h3.519 ± 0.051b0.952 ± 0.023k
+2 1% 1.058 ± 0.038j1.538 ± 0.051h4.269 ± 0.069a2.756 ± 0.029d
+3 2% 0.981 ± 0.084i1.218 ± 0.029j,k3.013 ± 0.166c2.526 ± 0.062e
+4 3% 0.635 ± 0.038l0.846 ± 0.019m2.128 ± 0.113f1.987 ± 0.029g
+5 4% 0.449 ± 0.048m0.641 ± 0.048n1.571 ± 0.022h1.615 ± 0.022h
+6 5% 0.436 ± 0.062o0.308 ± 0.051n1.045 ± 0.011j,k1.571 ± 0.011h
+Table 7 . Sodium chloride stress on Hydrogen cyanide production of Rhizobacteria. Values represent the mean 
+SE. Means ± standard error. The p value is less than 0.05 statistically significant, the null hypothesis rejected. 
+Scientific Reports  |        (2024) 14:24909 12 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/volume of plant growth-promoting activities. It can also boost agricultural crop yields. The future perspective is 
+that microbes’ genes can be conveyed to plants. It can also improve the agricultural production of specific crops 
+in salt stressed condition.
+Data availability
+The DNA sequences generated in this study have been deposited on the public database NCBI (National Centre 
+for Biotechnology Information), and they were also deposited under the accession numbers of the strains BR1 
+ON819727.1, BR2 ON819728.1, CR1 OR478038.1, and CR2 OR478039.1.
+Received: 13 June 2024; Accepted: 1 October 2024
+References
+ 1. del Carmen Orozco-Mosqueda, M., Glick, B. R. & Santoyo, G. ACC deaminase in plant growth-promoting bacteria (PGPB): 
+An efficient mechanism to counter salt stress in crops. Microbiol. Res.  235, 126439. https://doi.org/10.1016/j.micres.2020.126439  
+(2020).
+ 2. Eswar, D., Karuppusamy, R. & Chellamuthu, S. Drivers of soil salinity and their correlation with climate change. Curr. Opin. 
+Environ. Sustain.  50, 310–318. https://doi.org/10.1016/j.cosust.2020.10.015  (2021).
+ 3. Daliakopoulos, I. N. et al. The threat of soil salinity: A European scale review. Sci. Total Environ.  573, 727–739. https://doi.
+org/10.1016/j.scitotenv.2016.08.177  (2016).
+ 4. Eslami, S. et al. Projections of salt intrusion in a mega-delta under climatic and anthropogenic stressors. Commun. Earth Environ.  
+2(1), 142 (2021).
+ 5. Stavi, I., Priori, S. & Thevs, N. Impacts of climate change and land-use on soil functions and ecosystem services in drylands. Front. 
+Environ. Sci.  10, 851751. https://doi.org/10.3389/fenvs.2022.851751  (2022).
+ 6. Aşık, B. B., Turan, M. A., Celik, H. & Katkat, A. V . Uptake of wheat (Triticum durun cv. Salihli) under conditions of salinity. Asian 
+J. Crop. Sci.  1, 87–95. https://doi.org/10.32604/phyton.2023.025487  (2009).
+ 7. El Sabagh, A. et al. Salinity stress in wheat ( Triticum aestivum  L.) in the changing climate: Adaptation and management strategies. 
+Front. Agron.  3, 661932. https://doi.org/10.3389/fagro.2021.661932  (2021).
+ 8. Angon, P . B., Mondal, S., Akter, S., Sakil, M. A. & Jalil, M. A. Roles of CRISPR to mitigate drought and salinity stresses on plants. 
+Plant Stress  8, 100169. https://doi.org/10.1016/j.stress.2023.100169  (2023).
+ 9. Porcel, R., Aroca, R. & Ruiz-Lozano, J. M. Salinity stress alleviation using arbuscular mycorrhizal fungi. A review. Agron. Sustain. 
+Dev.  32, 181–200. https://doi.org/10.1007/s13593-011-0029-x  (2012).
+ 10. Shrivastava, P . & Kumar, R. Soil salinity: A serious environmental issue and plant growth promoting bacteria as one of the tools for 
+its alleviation. Saudi J. Biol. Sci.  22(2), 123–131. https://doi.org/10.1016/j.sjbs.2014.12.001  (2015).
+ 11. Dodd, I. C. & Perez-Alfocea, F. Microbial amelioration of crop salinity stress. J. Exp. Bot.  63(9), 3415–3428. https://doi.org/10.1093/
+jxb/ers033  (2012).
+ 12. Singh, R. P ., Jha, P . & Jha, P . N. The plant-growth-promoting bacterium Klebsiella sp. SBP-8 confers induced systemic tolerance in 
+wheat ( Triticum aestivum ) under salt stress. J. Plant Physiol.  184, 57–67. https://doi.org/10.1016/j.jplph.2015.07.002  (2015).
+ 13. Khan, M. A. et al. Halotolerant rhizobacterial strains mitigate the adverse effects of NaCl stress in soybean seedlings.  BioMed Res. 
+Int. 2019 . https://doi.org/10.1155/2019/9530963  (2019).
+ 14. Islam, F. et al. Plant growth promoting bacteria confer salt tolerance in Vigna radiata  by up-regulating antioxidant defense and 
+biological soil fertility. Plant Growth Regul.  80, 23–36. https://doi.org/10.1007/s10725-015-0142-y  (2016).
+ 15. Ansari, F. A. & Ahmad, I. Biofilm development, plant growth promoting traits and rhizosphere colonization by Pseudomonas 
+entomophila  FAP1: A promising PGPR. Adv. Microbiol.  8(03), 235. https://doi.org/10.4236/aim.2018.83016  (2018).
+ 16. Neshat, M. et al. Plant growth promoting bacteria (PGPR) induce antioxidant tolerance against salinity stress through biochemical 
+and physiological mechanisms. Physiol. Mol. Biol. Plants  28(2), 347–361. https://doi.org/10.1007/s12298-022-01128-0  (2022).
+ 17. Egamberdieva, D., Wirth, S., Bellingrath-Kimura, S. D., Mishra, J. & Arora, N. K. Salt-tolerant plant growth promoting rhizobacteria 
+for enhancing crop productivity of saline soils. Front. Microbiol.  10, 2791. https://doi.org/10.3389/fmicb.2019.02791  (2019).
+ 18. Habib, S. H., Kausar, H. & Saud, H. M. Plant growth-promoting rhizobacteria enhance salinity stress tolerance in okra through 
+ROS-scavenging enzymes. Biomed. Res. Int.  2016 (1), 6284547. https://doi.org/10.1155/2016/6284547  (2016).
+ 19. Akram, M. S. et al. Deciphering Staphylococcus sciuri SAT-17 mediated anti-oxidative defense mechanisms and growth 
+modulations in salt stressed maize ( Zeamays  L.). Front. Microbiol.  7, 867. https://doi.org/10.3389/fmicb.2016.00867  (2016).
+ 20. Etesami, H. & Beattie, G. A. Mining halophytes for plant growth-promoting halotolerant bacteria to enhance the salinity tolerance 
+of non-halophytic crops. Front. Microbiol.  9, 148. https://doi.org/10.3389/fmicb.2018.00148  (2018).
+ 21. Mano, Y . & Nemoto, K. The pathway of auxin biosynthesis in plants. J. Exp. Bot.  63(8), 2853–2872. https://doi.org/10.1093/jxb/
+ers091  (2012).
+ 22. Duca, D., Lorv, J., Patten, C. L., Rose, D. & Glick, B. R. Indole-3-acetic acid in plant–microbe interactions. Antonie Van Leeuwenhoek  
+106, 85–125. https://doi.org/10.1007/s10482-013-0095-y  (2014).
+ 23. Mendoza-Arroyo, G. E. et al. Inorganic phosphate solubilization by a novel isolated bacterial strain Enterobacter sp. ITCB-09 and 
+its application potential as biofertilizer. Agriculture  10(9), 383. https://doi.org/10.3390/agriculture10090383  (2020).
+ 24. de Oliveira Mendes, G. et al. Oxalic acid is more efficient than sulfuric acid for rock phosphate solubilization. Miner. Eng.  155, 
+106458. https://doi.org/10.1016/j.mineng.2020.106458  (2020).
+ 25. Klaic, R. et al. A novel combined mechanical-biological approach to improve rock phosphate solubilization. Int. J. Miner. Process.  
+161, 50–58. https://doi.org/10.1016/j.minpro.2017.02.009  (2017).
+ 26. Wei, Y . et al. Effect of organic acids production and bacterial community on the possible mechanism of phosphorus solubilization 
+during composting with enriched phosphate-solubilizing bacteria inoculation. Biores. Technol.  247, 190–199. https://doi.
+org/10.1016/j.biortech.2017.09.092  (2018).
+ 27. Sagar, A. Indole Test-Principle, reagents, Procedure, Result, Interpretation and Limitations.  Online Microbiology Notes , 4–5 (2015).
+ 28. Aryal, S. Carbohydrate fermentation test/sugar fermentation test (2020).
+ 29. Aryal, S. Methyl Red (MR) Test-Principle, Procedure and Result Interpretation (2018).
+ 30. Aryal, S. Voges-Proskauer (VP) Test-Principle, Reagents, Procedure and Result (2018).
+ 31. Aryal, S. Citrate utilization test principle media procedure and result (2018).
+ 32. Aryal, S. Catalase test-principle, uses, procedure, result interpretation with precautions (2021).
+ 33. Ahmad, F., Ahmad, I. & Khan, M. S. Screening of free-living rhizospheric bacteria for their multiple plant growth promoting 
+activities. Microbiol. Res.  163(2), 173–181. https://doi.org/10.1016/j.micres.2006.04.001  (2008).
+ 34. http://coleman-lab.org/wp-content/uploads/2021/04/Genomic-DNA-extraction-with-CTAB.pdf
+ 35. Saitou, N. & Nei, M. The neighbor-joining method: A new method for reconstructing phylogenetic trees. Mol. Biol. Evol.  4(4), 
+406–425. https://doi.org/10.1093/oxfordjournals.molbev.a040454  (1987).
+Scientific Reports  |        (2024) 14:24909 13 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/ 36. Felsenstein, J. Confidence limits on phylogenies: An approach using the bootstrap. Evolution  39(4), 783–791. https://doi.
+org/10.1111/j.1558-5646.1985.tb00420.x  (1985).
+ 37. Tamura, K., Nei, M. & Kumar, S. Prospects for inferring very large phylogenies by using the neighbor-joining method. Proc. Natl. 
+Acad. Sci.  101(30), 11030–11035. https://doi.org/10.1073/pnas.0404206101  (2004).
+ 38. Tamura, K., Stecher, G. & Kumar, S. MEGA11: Molecular evolutionary genetics analysis version 11. Mol. Biol. Evol.  38(7), 3022–
+3027. https://doi.org/10.1093/molbev/msab120  (2021).
+ 39. Gordon, S. & Weber, R. P . Colorimetric estimation of indoleacetic acid. Plant Physiol.  26(1), 192. https://doi.org/10.1104/
+pp.26.1.192  (1951).
+ 40. Fiske, C. H. & Subbarow, Y . The colorimetric determination of phosphorus. J. biol. Chem  66(2), 375–400. https://doi.org/10.1016/
+S0021-9258(18)84756-1  (1925).
+ 41. Dye, D. W . The inadequacy of the usual determinative tests for the identification of Xanthomonas spp.  New Zealand Journal of 
+Science,  5(4) (1962).
+ 42. Sadasivam, S., Manickam, A. Biochemical methods for agricultural sciences. Wiley eastern limited (1992).
+ 43. Reeves, M. W ., Pine, L., Neilands, J. B. & Balows, A. Absence of siderophore activity in Legionella  species grown in iron-deficient 
+media. J. Bacteriol.  154(1), 324–329. https://doi.org/10.1128/jb.154.1.324-329.1983  (1983).
+ 44. Fouda, A., Hassan, S. E. D., Eid, A. M., El-Din Ewais, E. The interaction between plants and bacterial endophytes under salinity 
+stress.  Endophytes and secondary metabolites , 1–18. https://doi.org/10.1007/978-3-319-90484-9_15  (2019).
+ 45. Bhat, M. A. et al. Mechanistic insights of the interaction of plant growth-promoting rhizobacteria (PGPR) with plant roots toward 
+enhancing plant productivity by alleviating salinity stress. Front. Microbiol.  11, 1952. https://doi.org/10.3389/fmicb.2020.01952  
+(2020).
+ 46. Chen, C. et al. Long-term effect of epigenetic modification in plant–microbe interactions: Modification of DNA methylation 
+induced by plant growth-promoting bacteria mediates promotion process. Microbiome  10(1), 36. https://doi.org/10.1186/s40168-
+022-01236-9  (2022).
+ 47. Rheims, H. et al. Bacillus silvestris sp nov, a new member of the genus Bacillus that contains lysine in its cell wall. Int. J. System. 
+Evolut. Microbiol.  49(2), 795–802. https://doi.org/10.1099/00207713-49-2-795  (1999).
+ 48. Krishnamurthi, S., Chakrabarti, T. & Stackebrandt, E. Re-examination of the taxonomic position of Bacillus silvestris  Rheims et 
+al. 1999 and proposal to transfer it to Solibacillus  gen. nov. as Solibacillus silvestris  comb. nov. Int. J. Syst. Evolut. Microbiol.  59(5), 
+1054–1058. https://doi.org/10.1099/ijs.0.65742-0  (2009).
+ 49. Morohoshi, T., Tominaga, Y ., Someya, N. & Ikeda, T. Complete genome sequence and characterization of the N-acylhomoserine 
+lactone-degrading gene of the potato leaf-associated Solibacillus silvestris. J. Biosci. Bioeng.  113(1), 20–25. https://doi.org/10.1016/j.
+jbiosc.2011.09.006  (2012).
+ 50. Montecillo, J. A. V . & Bae, H. Reclassification of Brevibacterium frigoritolerans as Peribacillus frigoritolerans  comb. nov. based on 
+phylogenomics and multiple molecular synapomorphies. Int. J. Syst. Evolut. Microbiol.  72(5), 005389. https://doi.org/10.1099/
+ijsem.0.005389  (2022).
+ 51. Lee, F. L. et al. Paenibacillus taichungensis sp. Nov., from soil in Taiwan. Int. J. Syst. Evolut. Microbiol.  58(11), 2640–2645. https://
+doi.org/10.1099/ijs.0.65776-0  (2008).
+ 52. Kumari, S. et al. Optimization of indole-3-acetic acid production by diazotrophic B. subtilis  DR2 (KP455653), isolated from 
+rhizosphere of Eragrostis cynosuroides. Int. J. Pharma Med. Biol. Sci.  7(2), 20–27. https://doi.org/10.18178/ijpmbs.7.2.20-27  
+(2018).
+ 53. Özdal, M., Özdal, Ö. G., Sezen, A. & Algur, Ö. F. Biosynthesis of indole-3-acetic acid by Bacillus cereus  immobilized cells. 
+Cumhuriyet Üniversitesi Fen Edebiyat Fakültesi Fen Bilimleri Dergisi  37(3), 212–222. https://doi.org/10.17776/csj.34085  (2016).
+ 54. Ilangumaran, G. & Smith, D. L. Plant growth promoting rhizobacteria in amelioration of salinity stress: A systems biology 
+perspective. Front. Plant Sci.  8, 1768. https://doi.org/10.3389/fpls.2017.01768  (2017).
+ 55. Haroon, U. et al. Isolation of halotolerant bacteria from rhizosphere of Khewra salt mine halophytes and their application to induce 
+salt tolerance in wheat. Geomicrobiol. J.  38(9), 768–775 (2021).
+ 56. Abd-Allah, E. F. Endophytic bacterium Bacillus subtilis (BERA 71) improves salt tolerance in chickpea plants by regulating the 
+plant defense mechanisms. J. Plant Interact.  13(1), 37–44. https://doi.org/10.1080/17429145.2017.1414321  (2018).
+ 57. Rima, F. S. et al. Bacteria endemic to saline coastal belt and their ability to mitigate the effects of salt stress on rice growth and 
+yields. Ann. Microbiol.  68, 525–535. https://doi.org/10.1007/s13213-018-1358-7  (2018).
+ 58. Pande, A. et al. Phenotypic and genotypic characterization of phosphate solubilizing bacteria and their efficiency on the growth of 
+maize. J. Genetic Eng. Biotechnol.  15(2), 379–391. https://doi.org/10.1016/j.jgeb.2017.06.005  (2017).
+ 59. Niu, X., Song, L., Xiao, Y . & Ge, W . Drought-tolerant plant growth-promoting rhizobacteria associated with foxtail millet in 
+a semi-arid agroecosystem and their potential in alleviating drought stress. Front. Microbiol.  8, 2580. https://doi.org/10.3389/
+fmicb.2017.02580  (2018).
+ 60. Krishnaraj, P . U. & Dahale, S. Mineral phosphate solubilization: Concepts and prospects in sustainable agriculture. Proc. Indian 
+Natl. Sci. Acad.  80(2), 389–405. https://doi.org/10.16943/ptinsa/2014/v80i2/55116  (2014).
+ 61. Oren, A., Heldal, M., Norland, S. & Galinski, E. A. Intracellular ion and organic solute concentrations of the extremely halophilic 
+bacterium Salinibacter ruber. Extremophiles  6, 491–498. https://doi.org/10.1007/s00792-002-0286-3  (2002).
+ 62. Paul, D. & Nair, S. Stress adaptations in a plant growth promoting rhizobacterium (PGPR) with increasing salinity in the coastal 
+agricultural soils. J. Basic Microbial.  48(5), 378–384. https://doi.org/10.1002/jobm.200700365  (2008).
+ 63. Maharana, R. & Dhal, N. K. Solubilization of rock phosphate by phosphate solubilizing bacteria isolated from effluent treatment 
+plant sludge of a fertilizer plant. Folia Microbiologica  67(4), 605–615. https://doi.org/10.1007/s12223-022-00953-w  (2022).
+ 64. Mondal, D. et al. Isolation and screening of potential phosphate solubilizing bacteria (PSB) from tidal saline soils of Bangladesh.  Octa 
+J. Environ. Res.  4(3) (2016).
+ 65. Liu, M., Zhao, Y ., Liu, X., Korpelainen, H. & Li, C. Ammonium and nitrate affect sexually different responses to salt stress in 
+Populus cathayana . Physiol. Plant.  174(1), e13626. https://doi.org/10.1111/ppl.13626  (2022).
+ 66. Tzortzakis, N., Pitsikoulaki, G., Stamatakis, A. & Chrysargyris, A. Ammonium to total nitrogen ratio interactive effects with 
+salinity application on Solanum lycopersicum  growth, physiology, and fruit storage in a closed hydroponic system. Agronomy  12(2), 
+386. https://doi.org/10.3390/agronomy12020386  (2022).
+ 67. Adams, M. W ., Mortenson, L. E. & Chen, J. S. Hydrogenase. Biochimica et Biophysica Acta (BBA)- Rev. Bioenerget.  594(2–3), 
+105–176s. https://doi.org/10.1016/0304-4173(80)90007-5  (1980).
+ 68. Alemu, F. Isolation of Pseudomonas flurescens  from rhizosphere of faba bean and screen their hydrogen cyanide production under 
+in vitro study, Ethiopia. Am. J. Life Sci.  4(2), 13–19. https://doi.org/10.11648/j.ajls.20150302.17  (2016).
+ 69. Rijavec, T. & Lapanje, A. Hydrogen cyanide in the rhizosphere: Not suppressing plant pathogens, but rather regulating availability 
+of phosphate. Front. Microbiol.  7, 1785. https://doi.org/10.3389/fmicb.2016.01785  (2016).
+ 70. Ahmed, E. & Holmström, S. J. Siderophores in environmental research: Roles and applications. Microbial Biotechnol.  7(3), 196–
+208. https://doi.org/10.1111/1751-7915.12117  (2014).
+ 71. Saha, M. et al. Microbial siderophores and their potential applications: A review. Environ. Sci. Pollut. Res.  23, 3984–3999. https://
+doi.org/10.1007/s11356-015-4294-0  (2016).
+ 72. Ali, S. S. & Vidhale, N. N. Bacterial siderophore and their application: A review. Int. J. Curr. Microbiol. Appl. Sci.  2(12), 303–312 
+(2013).
+Scientific Reports  |        (2024) 14:24909 14 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/ 73. Sah, S. & Singh, R. Siderophore: Structural and functional characterisation-A comprehensive review. Agriculture  61(3), 97. https://
+doi.org/10.1515/agri-2015-0015  (2015).
+ 74. Dimkpa, C. Microbial siderophores: Production, detection and application in agriculture and environment.  Endocytobiosis Cell 
+Res. 27(2) (2016).
+ 75. Budzikiewicz, H. Siderophore-antibiotic conjugates used as trojan horses against Pseudomonas aeruginosa . Curr. Top. Med. Chem.  
+1(1), 73–82. https://doi.org/10.2174/1568026013395524  (2001).
+Acknowledgements
+The authors are thankful to the Bharathiar University, Department of Botany for providing sophisticated instru -
+ment facilities and equipment facilities for our research work. The authors are thankful to the University Grant 
+Commission for financially supporting this research work under the (SJSGC-Savitribai Jyotirao Phule Fellow -
+ship for Single Girl Child) fellowship scheme.
+Author contributions
+NR and CK-these two authors have equally contributed to this work. Both authors read and approved the final 
+manuscript.
+Declarations
+Competing interests
+The authors declare no competing interests.
+Ethics approval
+This article does not contain human participants or animals performed by any of authors.
+Consent for publication
+The authors have given consent for publication.
+Additional information
+Supplementary Information  The online version contains supplementary material available at https://doi.
+org/10.1038/s41598-024-75022-y .
+Correspondence  and requests for materials should be addressed to C.K.
+Reprints and permissions information  is available at www.nature.com/reprints .
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access   This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in 
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide 
+a link to the Creative Commons licence, and indicate if you modified the licensed material. Y ou do not have 
+permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and 
+your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain 
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+licenses/by-nc-nd/4.0/ .
+© The Author(s) 2024  
+Scientific Reports  |        (2024) 14:24909 15 | https://doi.org/10.1038/s41598-024-75022-ywww.nature.com/scientificreports/
