@@ -17,8 +17,8 @@ dir
 
 ollama pull llama3.1
 
-python3 -m graphrag prompt-tune --root /app/graphrag --config /app/graphrag/settings.yaml --domain "salt-tolerant microbial species"
+python3 -m graphrag prompt-tune --root /graphrag --config /graphrag/settings.yaml --domain "salt-tolerant microbial species"
 
-python3 -m graphrag index --root /app/graphrag
+python3 -m graphrag index --root /graphrag
 
-python3 -m graphrag query --root /app/graphrag --method global --query "Please list salt-tolerant microbial species."
+python3 -m graphrag query --root /graphrag --method global --query "Please list salt-tolerant microbial species."

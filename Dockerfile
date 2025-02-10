@@ -45,7 +45,9 @@ RUN --mount=type=cache,target=/root/.cache/pip \
 # Copy the source code into the container.
 COPY . .
 COPY ./entry_point.sh /entry_point.sh
+COPY ./graphrag /graphrag
 RUN chmod +x /entry_point.sh
+RUN chmod +x /graphrag
 
 # Expose the port that the application listens on.
 EXPOSE 11434
